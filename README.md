@@ -1,6 +1,6 @@
 # Dwarf-Town
 
-Simulation of Dwarf Town prepared during Corealate course. App created with Krzysztof Gêbski.
+Simulation of Dwarf Town prepared during Corealate course. App created with Krzysztof GÄ™bski.
 Simulation tested our skills in creating an application model and was a summary of the course.
 
 Part of the code prepared by me:
